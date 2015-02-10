@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "2Q6-YJ-eU3"; */
+"2Q6-YJ-eU3.text" = "0.0";
+
+/* Class = "UITableViewSection"; headerTitle = "Endzeitpunkt"; ObjectID = "5Gt-qw-y8G"; */
+"5Gt-qw-y8G.headerTitle" = "Endzeitpunkt";
+
+/* Class = "UILabel"; text = "Schritte"; ObjectID = "6qi-H9-1Hu"; */
+"6qi-H9-1Hu.text" = "Schritte";
+
+/* Class = "UILabel"; text = "Strecke (km)"; ObjectID = "Pky-tO-gH5"; */
+"Pky-tO-gH5.text" = "Strecke (km)";
+
+/* Class = "UINavigationItem"; title = "Schrittzähler"; ObjectID = "QBi-ak-eNr"; */
+"QBi-ak-eNr.title" = "Schrittzähler";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Qcj-ci-lL9"; */
+"Qcj-ci-lL9.text" = "Title";
+
+/* Class = "UILabel"; text = "Erklommene Stockwerke"; ObjectID = "VMb-Hz-wOe"; */
+"VMb-Hz-wOe.text" = "Erklommene Stockwerke";
+
+/* Class = "UITableViewSection"; headerTitle = "Startzeitpunkt"; ObjectID = "fTo-73-6Lw"; */
+"fTo-73-6Lw.headerTitle" = "Startzeitpunkt";
+
+/* Class = "UITableViewSection"; headerTitle = "Resultat"; ObjectID = "h87-0l-QLm"; */
+"h87-0l-QLm.headerTitle" = "Resultat";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "hD9-67-U0e"; */
+"hD9-67-U0e.text" = "0.0";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ikr-o2-BQf"; */
+"ikr-o2-BQf.text" = "Title";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "ljN-IO-NeS"; */
+"ljN-IO-NeS.text" = "0.0";

@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Step Counter
+
+  Created by Mani on 09.02.15.
+  Copyright (c) 2015 Mani. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Schrittzähler";

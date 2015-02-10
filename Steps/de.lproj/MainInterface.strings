@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Daten seit "; ObjectID = "3SZ-qE-TDg"; */
+"3SZ-qE-TDg.text" = "Daten seit ";
+
+/* Class = "UILabel"; text = "Schritte"; ObjectID = "4FI-w6-4uU"; */
+"4FI-w6-4uU.text" = "Schritte";
+
+/* Class = "UILabel"; text = "Stockwerke"; ObjectID = "Byk-Ay-A9J"; */
+"Byk-Ay-A9J.text" = "Stockwerke";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "FeS-NT-2Db"; */
+"FeS-NT-2Db.text" = "Detail";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "YT8-xy-tqk"; */
+"YT8-xy-tqk.text" = "Detail";
+
+/* Class = "UILabel"; text = "Strecke (km)"; ObjectID = "kDm-Yz-tS5"; */
+"kDm-Yz-tS5.text" = "Strecke (km)";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "z5c-Zf-w7l"; */
+"z5c-Zf-w7l.text" = "Detail";
